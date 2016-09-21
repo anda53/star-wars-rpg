@@ -1,0 +1,79 @@
+#header{
+	font-family: 'Luckiest Guy', cursive;
+	color:white;
+	
+}
+
+#yourCharacter, .row , #fightSection{
+	color:#AEBDC2;
+}
+
+
+
+img{
+	width: 200px;
+	height: 200px;
+}
+
+body{
+	background-image: url("http://cdn.screenpicks.com/wp-content/uploads/2012/10/Star-Wars-Wallpaper.jpg");
+
+	
+}
+
+#fullpage{
+	margin-left:80px;
+}
+
+ p {
+
+	color:white;
+	font-size: 2em;
+}
+
+.character {
+
+	border-style: solid;
+	border-color: green;
+	border-width: 10px;
+
+}
+
+.redBorder {
+
+	border-color: red;
+	border-style: solid;
+	border-width: 10px;
+}
+
+.yellowBorder {
+	border-color: yellow;
+	border-style: solid;
+	border-width: 10px;
+
+}
+
+#reset{
+
+
+}
+
+#attack{
+  margin-left: 15%;
+  margin-top: 50%;
+
+}
+#available{
+	color:white;
+}
+
+h2{
+	background-color: black;
+}
+
+
+
+
+
+
+
